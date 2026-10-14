@@ -1,0 +1,147 @@
+{
+	"assetNamespace": "fab",
+	"listing":
+	{
+		"averageRating": 4,
+		"createdAt": "",
+		"description": "<p><strong>Texel density:</strong> 8192 px/m</p><p><strong>Scan Area:</strong> 1x1 m</p><p><strong>Maps:</strong> Displacement Cavity Gloss Specular Basecolor AO Roughness Normal Bump</p>\n<p><span>Create high-quality 3D experiences and worlds with Quixel Megascans. Browse thousands of photorealistic assets and environments, including materials, 3D assets, plants, decals, and more available </span><a target=\"_blank\" href=\"https://www.fab.com/sellers/Quixel\" rel=\"noopener noreferrer nofollow\"><span><u>here</u></span></a><span> on Fab.</span></p><p></p><p><span>For any questions or support regarding Quixel content, please get in touch </span><a target=\"_blank\" href=\"https://support.fab.com/s/?ProductOrigin=1PC\" rel=\"noopener noreferrer nofollow\"><span><u>here</u></span></a><span>.</span></p>",
+		"isAiForbidden": true,
+		"isAiGenerated": false,
+		"lastUpdatedAt": "",
+		"listingType": "material",
+		"media": "https://media.fab.com/image_previews/gallery_images/282febb5-2c8f-4a17-b9cd-4a490b478b10/4834641e-7e5c-402d-9dee-0c265c765971.jpeg",
+		"publishedAt": "2024-10-13T15:15:15.199279Z",
+		"reviewCount": 4,
+		"thumbnail": "https://media.fab.com/image_previews/gallery_images/7374f3e9-6ef2-4f16-9d7c-ef7d27ffc79a/4c29ca8f-7731-438b-abad-94a623fa1e26.jpeg",
+		"title": "Rock Cliff",
+		"uid": "22762313-071f-4017-a721-b29c5a2f1a87",
+		"updatedAt": "",
+		"user":
+		{
+			"coverImageUrl": "https://cdn1.epicgames.com/fab/seller/o-cbf5bbfdb340d6a839b5520cb31328/cover/67dbdb8f.jpg",
+			"profileImageUrl": "https://cdn1.epicgames.com/fab/seller/o-cbf5bbfdb340d6a839b5520cb31328/profile/39e5dabd.png",
+			"sellerName": "Quixel Megascans",
+			"uid": "45ea3429-f62c-4f17-aa15-5bb9dfcd0079"
+		},
+		"tags": [
+			{
+				"name": "Quarry",
+				"slug": "quarry",
+				"uid": "169c32af-f080-4619-93b1-2f3e39a3efea"
+			},
+			{
+				"name": "Face",
+				"slug": "face",
+				"uid": "28e0291b-a1fa-4045-8829-b1a29106d0ff"
+			},
+			{
+				"name": "Lichen",
+				"slug": "lichen",
+				"uid": "3888dba2-3262-4a1a-aa7c-041fd5de4cce"
+			},
+			{
+				"name": "Crack",
+				"slug": "crack",
+				"uid": "3e1305d5-0966-4432-b1c4-0cf6aa93152b"
+			},
+			{
+				"name": "Rock",
+				"slug": "rock",
+				"uid": "3f071878-96ef-47c7-ac6e-3264a25fef81"
+			},
+			{
+				"name": "Sharp",
+				"slug": "sharp",
+				"uid": "7feb876c-1331-43e0-a762-1a36f9e9c6cb"
+			},
+			{
+				"name": "Jagged",
+				"slug": "jagged",
+				"uid": "874233c4-fd10-4636-8771-d47e06d364b1"
+			},
+			{
+				"name": "Mountain",
+				"slug": "mountain",
+				"uid": "8969afa8-66b3-4638-86ff-f4c6cea35cf5"
+			},
+			{
+				"name": "Rough",
+				"slug": "rough",
+				"uid": "abd824a5-384f-43b7-8e90-b4a5207bb0b3"
+			},
+			{
+				"name": "Hill",
+				"slug": "hill",
+				"uid": "b8965fdc-6961-4a54-880f-223533169ff1"
+			},
+			{
+				"name": "Cliff",
+				"slug": "cliff",
+				"uid": "f897ee8a-0284-4310-81f2-09d689668c8f"
+			}
+		],
+		"category":
+		{
+			"name": "Rock",
+			"path": "nature-terrain/rock",
+			"slug": "nature-terrain--rock",
+			"uid": "64892ae1-59e6-4806-98b8-5e274c8a42e5"
+		},
+		"assetFormats": [
+			{
+				"assetFormatType":
+				{
+					"name": "Texture Set",
+					"groupName": "Material Formats",
+					"code": "texture-set",
+					"icon": "cube",
+					"extensions": [
+						"zip"
+					]
+				}
+			},
+			{
+				"assetFormatType":
+				{
+					"name": "GLTF",
+					"groupName": "3D Exchange Formats",
+					"code": "gltf",
+					"icon": "cube",
+					"extensions": [
+						"gltf"
+					]
+				}
+			},
+			{
+				"assetFormatType":
+				{
+					"name": "Additional files",
+					"groupName": "Other Formats",
+					"code": "additional-files",
+					"icon": "file",
+					"extensions": [
+						"zip"
+					]
+				}
+			}
+		],
+		"_PluginMetas":
+		{
+			"apiDataVersion": "0.0.1",
+			"entitlementUid": "417c475f-81e1-4b84-9490-0154822ac5e4",
+			"cacheSize": 0,
+			"downloaded": []
+		}
+	},
+	"target": "",
+	"quality": "mid",
+	"format": "texture-set",
+	"fileId": "74e00cad-4584-49b9-993f-4f4ec081e7f3",
+	"platformIncluded": "",
+	"distributionPointBaseUrls": [],
+	"distributionMethod": "",
+	"entitlementUid": "417c475f-81e1-4b84-9490-0154822ac5e4",
+	"invertedNormal": false,
+	"isConverted": false,
+	"isQuixel": true
+}

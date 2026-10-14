@@ -1,0 +1,130 @@
+{
+	"assetNamespace": "fab",
+	"listing":
+	{
+		"averageRating": 0,
+		"createdAt": "",
+		"description": "<p>Old Medieval Bench</p><p></p><p>-Low-poly ready to use in games (1096 tris).</p><p>-textures are in PNG format 4096x4096 PBR metalness 1 set.</p><p>-subdivision ready</p>",
+		"isAiForbidden": true,
+		"isAiGenerated": false,
+		"lastUpdatedAt": "",
+		"listingType": "3d-model",
+		"media": "https://media.fab.com/image_previews/gallery_images/1d496f20-8639-41df-8b56-2dfd646a8fcb/ad8fa4a7-7f58-485d-995b-ab25b3242b2c.png",
+		"publishedAt": "2025-09-18T07:38:02.536970Z",
+		"reviewCount": 0,
+		"thumbnail": "https://media.fab.com/image_previews/gallery_images/de31c63f-165e-4b10-b09a-aeaec609888a/aef07389-4f90-40ad-861e-22d39f2a1037.png",
+		"title": "Old Medieval Bench Low-poly PBR",
+		"uid": "61f9dad4-ba5c-482b-b49c-ab2e8700530a",
+		"updatedAt": "",
+		"user":
+		{
+			"coverImageUrl": "",
+			"profileImageUrl": "",
+			"sellerName": "Max3d",
+			"uid": "11d4836a-99af-4156-98df-1925b65b991d"
+		},
+		"tags": [
+			{
+				"name": "Pbr",
+				"slug": "pbr",
+				"uid": "080edd3b-d10a-4f32-ace2-30f5baa480dc"
+			},
+			{
+				"name": "Furniture",
+				"slug": "furniture",
+				"uid": "0f6b3b40-8715-4963-b755-0160e80cf12c"
+			},
+			{
+				"name": "Outdoor",
+				"slug": "outdoor",
+				"uid": "181bde92-b89d-49e9-b28f-af570035ad72"
+			},
+			{
+				"name": "Lowpoly",
+				"slug": "lowpoly",
+				"uid": "451806dc-649e-43b7-9c2e-a54485de14b6"
+			},
+			{
+				"name": "Bench",
+				"slug": "bench",
+				"uid": "5a3ae828-6237-4481-9e92-f5c34b04c549"
+			},
+			{
+				"name": "Medieval",
+				"slug": "medieval",
+				"uid": "8869d28f-20ec-4f2e-9e92-d505e24c701d"
+			},
+			{
+				"name": "Old",
+				"slug": "old",
+				"uid": "975b1521-db01-43ed-a939-c2c2da5027b1"
+			},
+			{
+				"name": "Wooden",
+				"slug": "wooden",
+				"uid": "9f55f27e-d3d7-4892-abbd-0a73b7ff3663"
+			},
+			{
+				"name": "Seat",
+				"slug": "seat",
+				"uid": "dfcedac9-4419-403c-9550-f9f07104c5e7"
+			},
+			{
+				"name": "Park",
+				"slug": "park",
+				"uid": "e9f75692-7a17-4cc9-a59b-712f2e1b38a9"
+			}
+		],
+		"category":
+		{
+			"name": "Furniture & Fixtures",
+			"path": "furniture-fixtures",
+			"slug": "furniture-fixtures",
+			"uid": "3da1d2bd-49b4-4bc5-90e5-d31dadec3bd0"
+		},
+		"assetFormats": [
+			{
+				"assetFormatType":
+				{
+					"name": "OBJ",
+					"groupName": "3D Exchange Formats",
+					"code": "obj",
+					"icon": "cube",
+					"extensions": [
+						"obj"
+					]
+				}
+			},
+			{
+				"assetFormatType":
+				{
+					"name": "FBX",
+					"groupName": "3D Exchange Formats",
+					"code": "fbx",
+					"icon": "cube",
+					"extensions": [
+						"fbx"
+					]
+				}
+			}
+		],
+		"_PluginMetas":
+		{
+			"apiDataVersion": "0.0.1",
+			"entitlementUid": "c8b0ebfa-68ee-45bf-ba34-43375a0d35c6",
+			"cacheSize": 0,
+			"downloaded": []
+		}
+	},
+	"target": "",
+	"quality": "",
+	"format": "fbx",
+	"fileId": "e73b24c3-dd3a-42e1-a7d5-eb1a5cd51507",
+	"platformIncluded": "",
+	"distributionPointBaseUrls": [],
+	"distributionMethod": "",
+	"entitlementUid": "c8b0ebfa-68ee-45bf-ba34-43375a0d35c6",
+	"invertedNormal": false,
+	"isConverted": false,
+	"isQuixel": false
+}

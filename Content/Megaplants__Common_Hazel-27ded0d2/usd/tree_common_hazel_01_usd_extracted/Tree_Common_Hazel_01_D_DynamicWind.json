@@ -1,0 +1,227 @@
+{
+    "Joints": [
+        {
+            "JointName": "Common_Hazel_04_point_0",
+            "SimulationGroupIndex": 0
+        },
+        {
+            "JointName": "Common_Hazel_04_point_1",
+            "SimulationGroupIndex": 0
+        },
+        {
+            "JointName": "Common_Hazel_04_point_2",
+            "SimulationGroupIndex": 0
+        },
+        {
+            "JointName": "Common_Hazel_04_point_3",
+            "SimulationGroupIndex": 0
+        },
+        {
+            "JointName": "Common_Hazel_04_point_4",
+            "SimulationGroupIndex": 0
+        },
+        {
+            "JointName": "Common_Hazel_04_point_5",
+            "SimulationGroupIndex": 0
+        },
+        {
+            "JointName": "Common_Hazel_04_point_6",
+            "SimulationGroupIndex": 0
+        },
+        {
+            "JointName": "Common_Hazel_04_point_7",
+            "SimulationGroupIndex": 0
+        },
+        {
+            "JointName": "Common_Hazel_04_point_8",
+            "SimulationGroupIndex": 0
+        },
+        {
+            "JointName": "Common_Hazel_04_point_9",
+            "SimulationGroupIndex": 0
+        },
+        {
+            "JointName": "Common_Hazel_04_point_10",
+            "SimulationGroupIndex": 1
+        },
+        {
+            "JointName": "Common_Hazel_04_point_11",
+            "SimulationGroupIndex": 1
+        },
+        {
+            "JointName": "Common_Hazel_04_point_12",
+            "SimulationGroupIndex": 1
+        },
+        {
+            "JointName": "Common_Hazel_04_point_13",
+            "SimulationGroupIndex": 1
+        },
+        {
+            "JointName": "Common_Hazel_04_point_14",
+            "SimulationGroupIndex": 1
+        },
+        {
+            "JointName": "Common_Hazel_04_point_15",
+            "SimulationGroupIndex": 1
+        },
+        {
+            "JointName": "Common_Hazel_04_point_16",
+            "SimulationGroupIndex": 1
+        },
+        {
+            "JointName": "Common_Hazel_04_point_17",
+            "SimulationGroupIndex": 1
+        },
+        {
+            "JointName": "Common_Hazel_04_point_18",
+            "SimulationGroupIndex": 1
+        },
+        {
+            "JointName": "Common_Hazel_04_point_19",
+            "SimulationGroupIndex": 1
+        },
+        {
+            "JointName": "Common_Hazel_04_point_20",
+            "SimulationGroupIndex": 1
+        },
+        {
+            "JointName": "Common_Hazel_04_point_21",
+            "SimulationGroupIndex": 1
+        },
+        {
+            "JointName": "Common_Hazel_04_point_22",
+            "SimulationGroupIndex": 1
+        },
+        {
+            "JointName": "Common_Hazel_04_point_23",
+            "SimulationGroupIndex": 1
+        },
+        {
+            "JointName": "Common_Hazel_04_point_24",
+            "SimulationGroupIndex": 1
+        },
+        {
+            "JointName": "Common_Hazel_04_point_25",
+            "SimulationGroupIndex": 1
+        },
+        {
+            "JointName": "Common_Hazel_04_point_26",
+            "SimulationGroupIndex": 2
+        },
+        {
+            "JointName": "Common_Hazel_04_point_27",
+            "SimulationGroupIndex": 2
+        },
+        {
+            "JointName": "Common_Hazel_04_point_28",
+            "SimulationGroupIndex": 2
+        },
+        {
+            "JointName": "Common_Hazel_04_point_29",
+            "SimulationGroupIndex": 2
+        },
+        {
+            "JointName": "Common_Hazel_04_point_30",
+            "SimulationGroupIndex": 2
+        },
+        {
+            "JointName": "Common_Hazel_04_point_31",
+            "SimulationGroupIndex": 2
+        },
+        {
+            "JointName": "Common_Hazel_04_point_32",
+            "SimulationGroupIndex": 2
+        },
+        {
+            "JointName": "Common_Hazel_04_point_33",
+            "SimulationGroupIndex": 2
+        },
+        {
+            "JointName": "Common_Hazel_04_point_34",
+            "SimulationGroupIndex": 2
+        },
+        {
+            "JointName": "Common_Hazel_04_point_35",
+            "SimulationGroupIndex": 2
+        },
+        {
+            "JointName": "Common_Hazel_04_point_36",
+            "SimulationGroupIndex": 2
+        },
+        {
+            "JointName": "Common_Hazel_04_point_37",
+            "SimulationGroupIndex": 2
+        },
+        {
+            "JointName": "Common_Hazel_04_point_38",
+            "SimulationGroupIndex": 2
+        },
+        {
+            "JointName": "Common_Hazel_04_point_39",
+            "SimulationGroupIndex": 2
+        },
+        {
+            "JointName": "Common_Hazel_04_point_40",
+            "SimulationGroupIndex": 2
+        },
+        {
+            "JointName": "Common_Hazel_04_point_41",
+            "SimulationGroupIndex": 2
+        },
+        {
+            "JointName": "Common_Hazel_04_point_42",
+            "SimulationGroupIndex": 2
+        },
+        {
+            "JointName": "Common_Hazel_04_point_43",
+            "SimulationGroupIndex": 2
+        },
+        {
+            "JointName": "Common_Hazel_04_point_44",
+            "SimulationGroupIndex": 2
+        },
+        {
+            "JointName": "Common_Hazel_04_point_45",
+            "SimulationGroupIndex": 2
+        },
+        {
+            "JointName": "Common_Hazel_04_point_46",
+            "SimulationGroupIndex": 2
+        },
+        {
+            "JointName": "Common_Hazel_04_point_47",
+            "SimulationGroupIndex": 2
+        },
+        {
+            "JointName": "Common_Hazel_04_point_48",
+            "SimulationGroupIndex": 2
+        },
+        {
+            "JointName": "Common_Hazel_04_point_49",
+            "SimulationGroupIndex": 2
+        },
+        {
+            "JointName": "Common_Hazel_04_point_50",
+            "SimulationGroupIndex": 2
+        },
+        {
+            "JointName": "Common_Hazel_04_point_51",
+            "SimulationGroupIndex": 2
+        },
+        {
+            "JointName": "Common_Hazel_04_point_52",
+            "SimulationGroupIndex": 2
+        },
+        {
+            "JointName": "Common_Hazel_04_point_53",
+            "SimulationGroupIndex": 2
+        },
+        {
+            "JointName": "Common_Hazel_04_point_54",
+            "SimulationGroupIndex": 2
+        }
+    ],
+    "SimulationGroups": [],
+    "bIsGroundCover": false,
+    "GustAttenuation": 0.0
+}

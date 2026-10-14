@@ -1,0 +1,102 @@
+{
+	"assetNamespace": "fab",
+	"listing":
+	{
+		"averageRating": 5,
+		"createdAt": "",
+		"description": "<p>Wooden Crate</p><p></p><p>Low-poly</p><p>Textures are in PNG format PBR metalness 1 set</p><p>optimized for mobile games</p>",
+		"isAiForbidden": false,
+		"isAiGenerated": false,
+		"lastUpdatedAt": "",
+		"listingType": "3d-model",
+		"media": "https://media.fab.com/image_previews/gallery_images/a4fe7d14-f37f-44b9-bf97-c8e248e0770c/1d076a7f-8432-403e-8abf-1b0c19d51c9a.jpeg",
+		"publishedAt": "2024-10-03T08:44:24.259171Z",
+		"reviewCount": 1,
+		"thumbnail": "https://media.fab.com/image_previews/gallery_images/280c8ef8-745e-4924-a63d-54badf3b6083/93a67613-0b5d-4790-aa94-f46191e068f4.jpeg",
+		"title": "Wooden Crate Low-poly PBR",
+		"uid": "22727fd0-7c3d-4a4b-9925-60fab76f7abb",
+		"updatedAt": "",
+		"user":
+		{
+			"coverImageUrl": "",
+			"profileImageUrl": "",
+			"sellerName": "Max3d",
+			"uid": "11d4836a-99af-4156-98df-1925b65b991d"
+		},
+		"tags": [
+			{
+				"name": "Box",
+				"slug": "box",
+				"uid": "3aee29bc-58db-41cc-ac48-4cfc238ae87e"
+			},
+			{
+				"name": "Crate",
+				"slug": "crate",
+				"uid": "8ac9349e-07c4-476a-aa4a-4e65e13b6c60"
+			},
+			{
+				"name": "Wooden",
+				"slug": "wooden",
+				"uid": "9f55f27e-d3d7-4892-abbd-0a73b7ff3663"
+			},
+			{
+				"name": "Storage",
+				"slug": "storage",
+				"uid": "c0632f76-6e8f-4c3e-98f6-8e2d88a0700f"
+			}
+		],
+		"category":
+		{
+			"name": "Furniture & Fixtures",
+			"path": "furniture-fixtures",
+			"slug": "furniture-fixtures",
+			"uid": "3da1d2bd-49b4-4bc5-90e5-d31dadec3bd0"
+		},
+		"assetFormats": [
+			{
+				"assetFormatType":
+				{
+					"name": "FBX",
+					"groupName": "3D Exchange Formats",
+					"code": "fbx",
+					"icon": "cube",
+					"extensions": [
+						"fbx"
+					]
+				}
+			},
+			{
+				"assetFormatType":
+				{
+					"name": "Converted Files",
+					"groupName": "",
+					"code": "converted-files",
+					"icon": "cube",
+					"extensions": [
+						"gltf",
+						"glb",
+						"usdz"
+					]
+				}
+			}
+		],
+		"_PluginMetas":
+		{
+			"apiDataVersion": "0.0.1",
+			"entitlementUid": "2fa9cb01-86e3-42be-b766-1c93f3e29305",
+			"cacheSize": 0,
+			"downloaded": []
+		}
+	},
+	"target": "",
+	"quality": "",
+	"format": "fbx",
+	"fileId": "43308036-2ca0-45d7-b3dc-3cdac7eddf9b",
+	"platformIncluded": "",
+	"distributionPointBaseUrls": [],
+	"distributionMethod": "",
+	"entitlementUid": "2fa9cb01-86e3-42be-b766-1c93f3e29305",
+	"invertedNormal": false,
+	"isConverted": false,
+	"isQuixel": false
+}

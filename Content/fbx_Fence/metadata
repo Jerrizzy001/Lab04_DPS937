@@ -1,0 +1,187 @@
+{
+	"assetNamespace": "fab",
+	"listing":
+	{
+		"averageRating": 5,
+		"createdAt": "",
+		"description": "<h4><strong><u>Medieval Wooden Defense Collection:</u> Includes 4 different models, game-ready and ready to use in your game engine.</strong></h4><p></p><ul><li><p>2K Textures</p></li><li><p>Realistic Style</p></li><li><p>FBX and OJB Files</p></li><li><p>Texture pack in .rar and .zip formats</p></li><li><p>Game Ready</p><p></p></li></ul><p>Thanks for watching! See you!</p>",
+		"isAiForbidden": true,
+		"isAiGenerated": false,
+		"lastUpdatedAt": "",
+		"listingType": "3d-model",
+		"media": "https://media.fab.com/image_previews/gallery_images/02d40f98-aa0e-43ac-85ce-80fe97d42577/915b9b4c-1db9-4017-8280-48964887d1c7.png",
+		"publishedAt": "2025-12-16T16:14:35.565657Z",
+		"reviewCount": 1,
+		"thumbnail": "https://media.fab.com/image_previews/gallery_images/3384cb5e-b628-4b2a-b658-c8181f0197cf/ba5c83dd-9976-4aab-83ea-53577d5d5b14.png",
+		"title": "Medieval Defense Spikes Fences Walls Low-poly 3D model",
+		"uid": "47962aff-212c-45d4-b98f-eeadfc8229f4",
+		"updatedAt": "",
+		"user":
+		{
+			"coverImageUrl": "",
+			"profileImageUrl": "https://cdn1.epicgames.com/fab/seller/o-bcrx3m7g6v34b9r9e5x8bfuccydyx5/profile/719d2f08.png",
+			"sellerName": "Ag72",
+			"uid": "06cf272d-6d81-490a-9db0-a96f0a2827c0"
+		},
+		"tags": [
+			{
+				"name": "Pbr",
+				"slug": "pbr",
+				"uid": "080edd3b-d10a-4f32-ace2-30f5baa480dc"
+			},
+			{
+				"name": "Spiked",
+				"slug": "spiked",
+				"uid": "3151e3d1-6c0b-4f60-aae1-a505dbb7b41b"
+			},
+			{
+				"name": "Spike",
+				"slug": "spike",
+				"uid": "37fade0d-7b22-406e-ace9-614f263d302c"
+			},
+			{
+				"name": "Land",
+				"slug": "land",
+				"uid": "3999632c-dfcf-4f04-b141-d32608e9b2c0"
+			},
+			{
+				"name": "Modular",
+				"slug": "modular",
+				"uid": "3f9ccd49-dae7-45e2-bdb6-9e288855da06"
+			},
+			{
+				"name": "Lowpoly",
+				"slug": "lowpoly",
+				"uid": "451806dc-649e-43b7-9c2e-a54485de14b6"
+			},
+			{
+				"name": "Defense",
+				"slug": "defense",
+				"uid": "58864c88-a876-4309-90e4-99ff000d548e"
+			},
+			{
+				"name": "Gameready",
+				"slug": "gameready",
+				"uid": "6a250196-0821-43cb-b9cd-3975f235b88d"
+			},
+			{
+				"name": "Minimalist",
+				"slug": "minimalist",
+				"uid": "73ac9f9a-794d-42f4-8873-f2e4d9e003a3"
+			},
+			{
+				"name": "Procedural",
+				"slug": "procedural",
+				"uid": "8865f103-5eff-419e-860e-bc97930c1476"
+			},
+			{
+				"name": "Medieval",
+				"slug": "medieval",
+				"uid": "8869d28f-20ec-4f2e-9e92-d505e24c701d"
+			},
+			{
+				"name": "Level",
+				"slug": "level",
+				"uid": "8f2cd337-060b-438b-8d2d-62808026db6f"
+			},
+			{
+				"name": "Realistic",
+				"slug": "realistic",
+				"uid": "93b0d3f1-a96c-4d68-9d44-69a313519e32"
+			},
+			{
+				"name": "Wooden",
+				"slug": "wooden",
+				"uid": "9f55f27e-d3d7-4892-abbd-0a73b7ff3663"
+			},
+			{
+				"name": "Wall",
+				"slug": "wall",
+				"uid": "b138d7ed-637e-4c63-b1dd-2295e069f06f"
+			},
+			{
+				"name": "Wood",
+				"slug": "wood",
+				"uid": "bcd38165-4b32-484d-bce7-c6cdaf827f77"
+			},
+			{
+				"name": "Military",
+				"slug": "military",
+				"uid": "d72bfec9-cfd7-44c0-85d9-eac5049405aa"
+			},
+			{
+				"name": "Fence",
+				"slug": "fence",
+				"uid": "dcb71319-e675-43bc-84e7-66abd8bbe63f"
+			},
+			{
+				"name": "Ancient",
+				"slug": "ancient",
+				"uid": "f0419e2c-b888-4e2d-8713-61c203152231"
+			}
+		],
+		"category":
+		{
+			"name": "Medieval",
+			"path": "environments/medieval",
+			"slug": "environments--medieval",
+			"uid": "2da560e9-e640-4217-aadb-1deead200265"
+		},
+		"assetFormats": [
+			{
+				"assetFormatType":
+				{
+					"name": "FBX",
+					"groupName": "3D Exchange Formats",
+					"code": "fbx",
+					"icon": "cube",
+					"extensions": [
+						"fbx"
+					]
+				}
+			},
+			{
+				"assetFormatType":
+				{
+					"name": "OBJ",
+					"groupName": "3D Exchange Formats",
+					"code": "obj",
+					"icon": "cube",
+					"extensions": [
+						"obj"
+					]
+				}
+			},
+			{
+				"assetFormatType":
+				{
+					"name": "Additional files",
+					"groupName": "Other Formats",
+					"code": "additional-files",
+					"icon": "file",
+					"extensions": [
+						"zip"
+					]
+				}
+			}
+		],
+		"_PluginMetas":
+		{
+			"apiDataVersion": "0.0.1",
+			"entitlementUid": "e3a722dd-9a3c-440d-bf2b-b836e4f83ef0",
+			"cacheSize": 0,
+			"downloaded": []
+		}
+	},
+	"target": "",
+	"quality": "",
+	"format": "fbx",
+	"fileId": "d25a082d-153a-419d-b96d-ee16ff62ac79",
+	"platformIncluded": "",
+	"distributionPointBaseUrls": [],
+	"distributionMethod": "",
+	"entitlementUid": "e3a722dd-9a3c-440d-bf2b-b836e4f83ef0",
+	"invertedNormal": false,
+	"isConverted": false,
+	"isQuixel": false
+}

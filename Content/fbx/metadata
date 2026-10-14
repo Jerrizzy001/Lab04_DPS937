@@ -1,0 +1,116 @@
+{
+	"assetNamespace": "fab",
+	"listing":
+	{
+		"averageRating": 5,
+		"createdAt": "",
+		"description": "<p>A medieval campfire prop featuring a circular stone fire ring with vertically stacked firewood arranged in a traditional camp setup. Includes burned ground detailing, ash buildup, scattered debris, and natural variation across the stone and wood surfaces.</p><p>Suitable for villages, campsites, forests, military encampments, and outdoor medieval environments. Designed to work as an environmental detail piece or focal point within gathering areas and resting spaces.</p><p>UE4 mannequin used for scale demonstration only in preview images, it is not included with this asset.</p>",
+		"isAiForbidden": true,
+		"isAiGenerated": true,
+		"lastUpdatedAt": "",
+		"listingType": "3d-model",
+		"media": "https://media.fab.com/image_previews/gallery_images/9144188d-5306-4e48-90ed-40cc8680b2bb/0750372a-8da1-4021-9afb-8165ed98a06d.png",
+		"publishedAt": "2026-07-11T02:44:49.539985Z",
+		"reviewCount": 1,
+		"thumbnail": "https://media.fab.com/image_previews/gallery_images/1027a59f-3b98-46fb-bca9-1dd443de730f/79137271-f037-4f93-a566-a216c6f0dfdb.png",
+		"title": "Medieval Campfire",
+		"uid": "f620242e-35cc-4708-b4ac-ff3cc75e1eb7",
+		"updatedAt": "",
+		"user":
+		{
+			"coverImageUrl": "",
+			"profileImageUrl": "https://cdn1.epicgames.com/fab/seller/o-6ulhq8el3uj5rjsphv7jpjuqrsa53q/profile/8e139611.png",
+			"sellerName": "Zombified Asset Studios",
+			"uid": "b96783b0-4bc7-4a5f-876d-8874a5f85b02"
+		},
+		"tags": [
+			{
+				"name": "Stone",
+				"slug": "stone",
+				"uid": "3b7b9846-a26c-48e0-99e0-866350f162aa"
+			},
+			{
+				"name": "Medieval",
+				"slug": "medieval",
+				"uid": "8869d28f-20ec-4f2e-9e92-d505e24c701d"
+			},
+			{
+				"name": "Realistic",
+				"slug": "realistic",
+				"uid": "93b0d3f1-a96c-4d68-9d44-69a313519e32"
+			},
+			{
+				"name": "Wood",
+				"slug": "wood",
+				"uid": "bcd38165-4b32-484d-bce7-c6cdaf827f77"
+			}
+		],
+		"category":
+		{
+			"name": "Medieval",
+			"path": "environments/medieval",
+			"slug": "environments--medieval",
+			"uid": "2da560e9-e640-4217-aadb-1deead200265"
+		},
+		"assetFormats": [
+			{
+				"assetFormatType":
+				{
+					"name": "FBX",
+					"groupName": "3D Exchange Formats",
+					"code": "fbx",
+					"icon": "cube",
+					"extensions": [
+						"fbx"
+					]
+				}
+			},
+			{
+				"assetFormatType":
+				{
+					"name": "Converted Files",
+					"groupName": "",
+					"code": "converted-files",
+					"icon": "cube",
+					"extensions": [
+						"gltf",
+						"glb",
+						"usdz"
+					]
+				}
+			},
+			{
+				"assetFormatType":
+				{
+					"name": "Unreal Engine",
+					"groupName": "Game Engine Formats",
+					"code": "unreal-engine",
+					"icon": "unreal-engine",
+					"extensions": [
+						"uasset",
+						"uproject",
+						"uplugin"
+					]
+				}
+			}
+		],
+		"_PluginMetas":
+		{
+			"apiDataVersion": "0.0.1",
+			"entitlementUid": "e51e25f8-ee54-41fd-80ac-262cebd36c32",
+			"cacheSize": 0,
+			"downloaded": []
+		}
+	},
+	"target": "",
+	"quality": "",
+	"format": "fbx",
+	"fileId": "d5525146-5254-4d9b-a431-5de74a09fd49",
+	"platformIncluded": "",
+	"distributionPointBaseUrls": [],
+	"distributionMethod": "",
+	"entitlementUid": "e51e25f8-ee54-41fd-80ac-262cebd36c32",
+	"invertedNormal": false,
+	"isConverted": false,
+	"isQuixel": false
+}

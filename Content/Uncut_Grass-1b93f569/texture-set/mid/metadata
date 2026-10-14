@@ -1,0 +1,122 @@
+{
+	"assetNamespace": "fab",
+	"listing":
+	{
+		"averageRating": 4,
+		"createdAt": "",
+		"description": "<p><strong>Texel density:</strong> 4096 px/m</p><p><strong>Scan Area:</strong> 1x1 m</p><p><strong>Maps:</strong> Specular AO Normal Cavity Roughness Displacement Gloss Basecolor Bump</p>\n<p><span>Create high-quality 3D experiences and worlds with Quixel Megascans. Browse thousands of photorealistic assets and environments, including materials, 3D assets, plants, decals, and more available </span><a target=\"_blank\" href=\"https://www.fab.com/sellers/Quixel\" rel=\"noopener noreferrer nofollow\"><span><u>here</u></span></a><span> on Fab.</span></p><p></p><p><span>For any questions or support regarding Quixel content, please get in touch </span><a target=\"_blank\" href=\"https://support.fab.com/s/?ProductOrigin=1PC\" rel=\"noopener noreferrer nofollow\"><span><u>here</u></span></a><span>.</span></p>",
+		"isAiForbidden": true,
+		"isAiGenerated": false,
+		"lastUpdatedAt": "",
+		"listingType": "material",
+		"media": "https://media.fab.com/image_previews/gallery_images/8cd51bd9-70f6-4781-b91f-34e26855148c/8e2c2bca-7091-462e-90e2-16b8acf0181b.jpeg",
+		"publishedAt": "2024-10-14T03:21:00.547693Z",
+		"reviewCount": 3,
+		"thumbnail": "https://media.fab.com/image_previews/gallery_images/42c1f3ad-8d89-4608-aba6-0654bffccc7d/2377ab17-e58f-4b16-8b59-bb3ffac4690a.jpeg",
+		"title": "Uncut Grass",
+		"uid": "1b93f569-aa1d-4f06-8452-03216dfbc1a1",
+		"updatedAt": "",
+		"user":
+		{
+			"coverImageUrl": "https://cdn1.epicgames.com/fab/seller/o-cbf5bbfdb340d6a839b5520cb31328/cover/67dbdb8f.jpg",
+			"profileImageUrl": "https://cdn1.epicgames.com/fab/seller/o-cbf5bbfdb340d6a839b5520cb31328/profile/39e5dabd.png",
+			"sellerName": "Quixel Megascans",
+			"uid": "45ea3429-f62c-4f17-aa15-5bb9dfcd0079"
+		},
+		"tags": [
+			{
+				"name": "Lawn",
+				"slug": "lawn",
+				"uid": "0232e4c1-3078-4c85-9e3b-6cadb212daf1"
+			},
+			{
+				"name": "Grass",
+				"slug": "grass",
+				"uid": "3377d4ed-aa0f-458d-a9a8-6a8c2a40dc77"
+			},
+			{
+				"name": "Ground",
+				"slug": "ground",
+				"uid": "3baab37a-91ee-4554-acbb-3a54f62d165e"
+			},
+			{
+				"name": "Weed",
+				"slug": "weed",
+				"uid": "4025029d-71a8-49b3-86bf-9cd57e510d50"
+			},
+			{
+				"name": "Clover",
+				"slug": "clover",
+				"uid": "b4fc6d39-127b-43f1-a939-b1f291ac4486"
+			},
+			{
+				"name": "Lush",
+				"slug": "lush",
+				"uid": "f2aa69d5-e3d9-4d22-9bdc-2ec17d658545"
+			}
+		],
+		"category":
+		{
+			"name": "Vegetation",
+			"path": "nature-terrain/vegetation",
+			"slug": "nature-terrain--vegetation",
+			"uid": "dcacfa12-657d-466f-96d0-abde253a9bf2"
+		},
+		"assetFormats": [
+			{
+				"assetFormatType":
+				{
+					"name": "Texture Set",
+					"groupName": "Material Formats",
+					"code": "texture-set",
+					"icon": "cube",
+					"extensions": [
+						"zip"
+					]
+				}
+			},
+			{
+				"assetFormatType":
+				{
+					"name": "GLTF",
+					"groupName": "3D Exchange Formats",
+					"code": "gltf",
+					"icon": "cube",
+					"extensions": [
+						"gltf"
+					]
+				}
+			},
+			{
+				"assetFormatType":
+				{
+					"name": "Additional files",
+					"groupName": "Other Formats",
+					"code": "additional-files",
+					"icon": "file",
+					"extensions": [
+						"zip"
+					]
+				}
+			}
+		],
+		"_PluginMetas":
+		{
+			"apiDataVersion": "0.0.1",
+			"entitlementUid": "085373a1-5c26-440c-8eff-2ae5c168cb86",
+			"cacheSize": 0,
+			"downloaded": []
+		}
+	},
+	"target": "",
+	"quality": "mid",
+	"format": "texture-set",
+	"fileId": "c1d797cc-5444-4160-b482-1d5c11bd7476",
+	"platformIncluded": "",
+	"distributionPointBaseUrls": [],
+	"distributionMethod": "",
+	"entitlementUid": "085373a1-5c26-440c-8eff-2ae5c168cb86",
+	"invertedNormal": false,
+	"isConverted": false,
+	"isQuixel": true
+}

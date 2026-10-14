@@ -1,0 +1,122 @@
+{
+	"assetNamespace": "fab",
+	"listing":
+	{
+		"averageRating": 5,
+		"createdAt": "",
+		"description": "<p>I tried making some Psx styled assets. The assets could be better, but oh well.</p>",
+		"isAiForbidden": true,
+		"isAiGenerated": false,
+		"lastUpdatedAt": "",
+		"listingType": "3d-model",
+		"media": "https://media.fab.com/image_previews/gallery_images/a90decf0-8aab-4dbd-846f-8b7ae20d3d97/85a29f46-6cb6-48c2-8dae-0e0324e7a899.jpeg",
+		"publishedAt": "2024-10-14T06:22:32.892232Z",
+		"reviewCount": 1,
+		"thumbnail": "https://media.fab.com/image_previews/gallery_images/f120d229-a489-4fbb-a08e-e921f3fd9039/c2c5e0ea-9cd6-4b5f-9fe3-b05dbccafdd6.jpeg",
+		"title": "PSX Forest Asset Pack",
+		"uid": "9d85e8e4-b8d0-41b5-bd94-b275273407a0",
+		"updatedAt": "",
+		"user":
+		{
+			"coverImageUrl": "",
+			"profileImageUrl": "",
+			"sellerName": "AkuVain",
+			"uid": "1071b0a6-0783-4312-b6f9-494ba2bfecc7"
+		},
+		"tags": [
+			{
+				"name": "Tree",
+				"slug": "tree",
+				"uid": "365e087d-8586-4b06-94e8-69c855e5f0aa"
+			},
+			{
+				"name": "Rock",
+				"slug": "rock",
+				"uid": "3f071878-96ef-47c7-ac6e-3264a25fef81"
+			},
+			{
+				"name": "Lowpoly",
+				"slug": "lowpoly",
+				"uid": "451806dc-649e-43b7-9c2e-a54485de14b6"
+			},
+			{
+				"name": "Bush",
+				"slug": "bush",
+				"uid": "957c25f2-a4cb-4087-8c61-e8c5566f7b17"
+			},
+			{
+				"name": "Firewood",
+				"slug": "firewood",
+				"uid": "9d5ac1c4-b236-486b-9907-daba1f5e281c"
+			},
+			{
+				"name": "Pack",
+				"slug": "pack",
+				"uid": "b8a16ac4-6252-4eb3-99e8-aa328ec56937"
+			},
+			{
+				"name": "Forest",
+				"slug": "forest",
+				"uid": "ce0abda8-968f-4046-967f-d7ff632d84a2"
+			},
+			{
+				"name": "Graphics",
+				"slug": "graphics",
+				"uid": "d8d480ab-da2c-4e20-a9f0-86dee176796d"
+			}
+		],
+		"category":
+		{
+			"name": "Nature & Plants",
+			"path": "nature-plants",
+			"slug": "nature-plants",
+			"uid": "57243087-7d23-45a2-b08d-cf12cc77efed"
+		},
+		"assetFormats": [
+			{
+				"assetFormatType":
+				{
+					"name": "Blender",
+					"groupName": "3D DCC Formats",
+					"code": "blender",
+					"icon": "blender",
+					"extensions": [
+						"blend"
+					]
+				}
+			},
+			{
+				"assetFormatType":
+				{
+					"name": "Converted Files",
+					"groupName": "",
+					"code": "converted-files",
+					"icon": "cube",
+					"extensions": [
+						"gltf",
+						"glb",
+						"usdz"
+					]
+				}
+			}
+		],
+		"_PluginMetas":
+		{
+			"apiDataVersion": "0.0.1",
+			"entitlementUid": "3567fd50-e01d-40a4-b119-752690720a68",
+			"cacheSize": 0,
+			"downloaded": []
+		}
+	},
+	"target": "",
+	"quality": "",
+	"format": "glb",
+	"fileId": "7d8e4c72-9a95-4f3b-8939-943b6d82ea24",
+	"platformIncluded": "",
+	"distributionPointBaseUrls": [],
+	"distributionMethod": "",
+	"entitlementUid": "3567fd50-e01d-40a4-b119-752690720a68",
+	"invertedNormal": false,
+	"isConverted": true,
+	"isQuixel": false
+}

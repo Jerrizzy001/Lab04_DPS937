@@ -1,0 +1,175 @@
+{
+	"assetNamespace": "fab",
+	"listing":
+	{
+		"averageRating": 0,
+		"createdAt": "",
+		"description": "<p><span><strong>Stylized Low-Poly Bush Pack</strong></span></p><p><span>A collection of stylized, low-poly bushes designed for games, simulations, and real-time environments. Each bush was modeled in <strong>Autodesk Maya</strong> and textured in <strong>Substance 3D Painter</strong>, with <strong>9 unique texture variations</strong> included.</span></p><p><span>The pack also comes with <strong>9 GLB and 9 GLTF files</strong>, ready to download and use directly in <strong>Unreal Engine</strong> without additional setup.</span></p><p><span>These optimized stylized bushes are ideal for:</span></p><ul><li><p><span>Stylized games</span></p></li><li><p><span>Simulation games</span></p></li><li><p><span>Game development practice</span></p></li><li><p><span>Real-time environments</span></p></li><li><p><span>Low-poly scenes and level design</span></p></li></ul><p><span>Add variety and detail to your environments quickly and easily. Download the pack, import the assets into your project, and start creating!</span></p>",
+		"isAiForbidden": true,
+		"isAiGenerated": false,
+		"lastUpdatedAt": "",
+		"listingType": "3d-model",
+		"media": "https://media.fab.com/image_previews/gallery_images/4cdb857c-1ab9-4371-88e1-5c304e94fb6a/105b7a0b-cac7-4b76-990d-bc8fbbfc205a.png",
+		"publishedAt": "2026-09-12T11:23:41.427149Z",
+		"reviewCount": 0,
+		"thumbnail": "https://media.fab.com/image_previews/gallery_images/54ce5713-6f05-4196-bde3-d0ee0d7c43c2/2461d8b3-56c6-4dfd-8d17-84b52ca18385.png",
+		"title": "Stylized Bush",
+		"uid": "70523887-f8e1-4dce-9322-26894712bd36",
+		"updatedAt": "",
+		"user":
+		{
+			"coverImageUrl": "",
+			"profileImageUrl": "",
+			"sellerName": "Mirazur Rahman Khan Moon",
+			"uid": "7cb7065a-b0af-4780-a359-3718ad96bed5"
+		},
+		"tags": [
+			{
+				"name": "Pbr",
+				"slug": "pbr",
+				"uid": "080edd3b-d10a-4f32-ace2-30f5baa480dc"
+			},
+			{
+				"name": "Wildflower",
+				"slug": "wildflower",
+				"uid": "0a311f0f-ff6b-44d2-94d1-a25c7260833b"
+			},
+			{
+				"name": "Videogame",
+				"slug": "videogame",
+				"uid": "0aca51ea-a580-4337-a3ad-3d2e92804b0e"
+			},
+			{
+				"name": "Wild",
+				"slug": "wild",
+				"uid": "1155e679-b3b2-4415-b5d4-206aaabd9918"
+			},
+			{
+				"name": "Landscape",
+				"slug": "landscape",
+				"uid": "12a522e9-2cf5-4f6f-8a50-6b9cfaddfc55"
+			},
+			{
+				"name": "Grass",
+				"slug": "grass",
+				"uid": "3377d4ed-aa0f-458d-a9a8-6a8c2a40dc77"
+			},
+			{
+				"name": "Plant",
+				"slug": "plant",
+				"uid": "39825278-7eee-4f2e-aa9e-fa21a6f08c4f"
+			},
+			{
+				"name": "Lowpoly",
+				"slug": "lowpoly",
+				"uid": "451806dc-649e-43b7-9c2e-a54485de14b6"
+			},
+			{
+				"name": "Flower",
+				"slug": "flower",
+				"uid": "60043fc2-3978-4b33-8ed5-53c6893b9350"
+			},
+			{
+				"name": "Vegetation",
+				"slug": "vegetation",
+				"uid": "7b1e3cb7-1c5f-4454-8b89-70aab49afcb6"
+			},
+			{
+				"name": "Cartoon",
+				"slug": "cartoon",
+				"uid": "8bc8f154-d25c-419b-8ae1-740693004da5"
+			},
+			{
+				"name": "Environment",
+				"slug": "environment",
+				"uid": "8c584304-8d10-44ca-8982-685cae643973"
+			},
+			{
+				"name": "Nature",
+				"slug": "nature",
+				"uid": "8d858676-26d9-4329-b3f7-0b3a4107b7f9"
+			},
+			{
+				"name": "Detailed",
+				"slug": "detailed",
+				"uid": "8e25e404-a699-4f19-ba76-ba1d193adf0d"
+			},
+			{
+				"name": "Bush",
+				"slug": "bush",
+				"uid": "957c25f2-a4cb-4087-8c61-e8c5566f7b17"
+			},
+			{
+				"name": "Stylized",
+				"slug": "stylized",
+				"uid": "b584e222-c5bf-43b3-b9ed-f937eaf169c1"
+			},
+			{
+				"name": "Prop",
+				"slug": "prop",
+				"uid": "c4f4f70b-31aa-41e7-b857-70631ffdeb3f"
+			},
+			{
+				"name": "Handpainted",
+				"slug": "handpainted",
+				"uid": "e99f222e-afc4-4780-899c-3fd3f1048c86"
+			},
+			{
+				"name": "Jungle",
+				"slug": "jungle",
+				"uid": "e9fa2284-0cb5-4f01-b9e9-486906dfcfe4"
+			}
+		],
+		"category":
+		{
+			"name": "Forest & Jungle",
+			"path": "environments/forest-jungle",
+			"slug": "environments--forest-jungle",
+			"uid": "b66dbb5d-4792-4ce7-a24c-8d7c8b88af7c"
+		},
+		"assetFormats": [
+			{
+				"assetFormatType":
+				{
+					"name": "FBX",
+					"groupName": "3D Exchange Formats",
+					"code": "fbx",
+					"icon": "cube",
+					"extensions": [
+						"fbx"
+					]
+				}
+			},
+			{
+				"assetFormatType":
+				{
+					"name": "Additional files",
+					"groupName": "Other Formats",
+					"code": "additional-files",
+					"icon": "file",
+					"extensions": [
+						"zip"
+					]
+				}
+			}
+		],
+		"_PluginMetas":
+		{
+			"apiDataVersion": "0.0.1",
+			"entitlementUid": "42276e22-6a7e-483b-925e-f99f28a64254",
+			"cacheSize": 0,
+			"downloaded": []
+		}
+	},
+	"target": "",
+	"quality": "",
+	"format": "fbx",
+	"fileId": "4e47d0eb-cd3a-4a8d-abce-f40cfeab4fbd",
+	"platformIncluded": "",
+	"distributionPointBaseUrls": [],
+	"distributionMethod": "",
+	"entitlementUid": "42276e22-6a7e-483b-925e-f99f28a64254",
+	"invertedNormal": false,
+	"isConverted": false,
+	"isQuixel": false
+}

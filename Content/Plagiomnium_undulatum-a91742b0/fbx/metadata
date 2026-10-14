@@ -1,0 +1,157 @@
+{
+	"assetNamespace": "fab",
+	"listing":
+	{
+		"averageRating": 0,
+		"createdAt": "",
+		"description": "Plagiomnium undulatum",
+		"isAiForbidden": false,
+		"isAiGenerated": false,
+		"lastUpdatedAt": "",
+		"listingType": "3d-model",
+		"media": "https://media.fab.com/image_previews/gallery_images/917ea23d-9588-41ee-9fdf-d5863b9ecbac/ae20f71a-5f88-44d4-a5e1-fdae2de6bc96.jpeg",
+		"publishedAt": "2024-10-05T16:59:31.821029Z",
+		"reviewCount": 0,
+		"thumbnail": "https://media.fab.com/image_previews/gallery_images/19028e2a-6360-4534-b413-16a54919d33a/1a699180-806b-46c8-b1e3-63ee6bd7c151.jpeg",
+		"title": "Plagiomnium undulatum",
+		"uid": "a91742b0-4faf-4167-adcb-54665082f080",
+		"updatedAt": "",
+		"user":
+		{
+			"coverImageUrl": "https://cdn1.epicgames.com/fab/seller/o-7bvjbfg6fckna2tx3yf92dnrlyhra7/cover/4ea3d781.png",
+			"profileImageUrl": "https://cdn1.epicgames.com/fab/seller/o-7bvjbfg6fckna2tx3yf92dnrlyhra7/profile/4885015f.png",
+			"sellerName": "Punttulanbro",
+			"uid": "b5ea2db9-a071-4f05-a72d-109a72e3d539"
+		},
+		"tags": [
+			{
+				"name": "Flora",
+				"slug": "flora",
+				"uid": "374a8068-ea1f-4bf4-8a9d-78af0de1e5c4"
+			},
+			{
+				"name": "Photogrammetry",
+				"slug": "photogrammetry",
+				"uid": "39435048-f16b-4977-b62b-82ff5ca8c38e"
+			},
+			{
+				"name": "Ground",
+				"slug": "ground",
+				"uid": "3baab37a-91ee-4554-acbb-3a54f62d165e"
+			},
+			{
+				"name": "Mossy",
+				"slug": "mossy",
+				"uid": "4a5cbc12-00ad-42c8-b155-1b33654ad18d"
+			},
+			{
+				"name": "Greenery",
+				"slug": "greenery",
+				"uid": "4d24a07f-f0e0-42b8-88e3-e765350fb694"
+			},
+			{
+				"name": "Decoration",
+				"slug": "decoration",
+				"uid": "5824ee7b-342c-4305-a2e8-f9a8a7f41c99"
+			},
+			{
+				"name": "Natural",
+				"slug": "natural",
+				"uid": "5b907a6b-4d82-4f53-b3af-041f9a5f20e8"
+			},
+			{
+				"name": "Photorealistic",
+				"slug": "photorealistic",
+				"uid": "7485c72b-1f18-499f-8c65-0fdf1e2a21d0"
+			},
+			{
+				"name": "Vegetation",
+				"slug": "vegetation",
+				"uid": "7b1e3cb7-1c5f-4454-8b89-70aab49afcb6"
+			},
+			{
+				"name": "Cover",
+				"slug": "cover",
+				"uid": "7cefe973-cc43-4ad8-9127-49ff268707c5"
+			},
+			{
+				"name": "Floor",
+				"slug": "floor",
+				"uid": "8c1056f0-1c5c-42cc-8d3a-48ed68ff6285"
+			},
+			{
+				"name": "Soil",
+				"slug": "soil",
+				"uid": "b0843123-1234-4993-870e-5f9e5a0d6c93"
+			},
+			{
+				"name": "Surface",
+				"slug": "surface",
+				"uid": "bda913d0-d91d-42d8-b0ac-1fd842b255ca"
+			},
+			{
+				"name": "Forest",
+				"slug": "forest",
+				"uid": "ce0abda8-968f-4046-967f-d7ff632d84a2"
+			},
+			{
+				"name": "Freebie",
+				"slug": "freebie",
+				"uid": "cfdf8396-1256-4069-b8ce-cb84b7409727"
+			}
+		],
+		"category":
+		{
+			"name": "Nature & Plants",
+			"path": "nature-plants",
+			"slug": "nature-plants",
+			"uid": "57243087-7d23-45a2-b08d-cf12cc77efed"
+		},
+		"assetFormats": [
+			{
+				"assetFormatType":
+				{
+					"name": "FBX",
+					"groupName": "3D Exchange Formats",
+					"code": "fbx",
+					"icon": "cube",
+					"extensions": [
+						"fbx"
+					]
+				}
+			},
+			{
+				"assetFormatType":
+				{
+					"name": "Converted Files",
+					"groupName": "",
+					"code": "converted-files",
+					"icon": "cube",
+					"extensions": [
+						"gltf",
+						"glb",
+						"usdz"
+					]
+				}
+			}
+		],
+		"_PluginMetas":
+		{
+			"apiDataVersion": "0.0.1",
+			"entitlementUid": "79677edd-c57c-45a5-9dc4-db9d93b1f972",
+			"cacheSize": 0,
+			"downloaded": []
+		}
+	},
+	"target": "",
+	"quality": "",
+	"format": "fbx",
+	"fileId": "3ca20d7b-536e-4470-98d3-ba4d194b28b3",
+	"platformIncluded": "",
+	"distributionPointBaseUrls": [],
+	"distributionMethod": "",
+	"entitlementUid": "79677edd-c57c-45a5-9dc4-db9d93b1f972",
+	"invertedNormal": false,
+	"isConverted": false,
+	"isQuixel": false
+}

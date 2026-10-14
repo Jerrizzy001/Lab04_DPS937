@@ -1,0 +1,129 @@
+{
+	"assetNamespace": "fab",
+	"listing":
+	{
+		"averageRating": 0,
+		"createdAt": "",
+		"description": "<p>A medieval cart for a medieval world. Low poly mesh, made in blender.</p><p></p><p>Click follow to see more about my works.</p><p></p><p>Follow me on Patreon <a target=\"_blank\" href=\"http://www.patreon.com/pizzaandgames\" rel=\"noopener noreferrer nofollow\">www.patreon.com/pizzaandgames</a> Instagram:  <a target=\"_blank\" href=\"/users/pizzaandgames\" rel=\"noopener noreferrer nofollow\">@pizzaandgames</a></p>",
+		"isAiForbidden": true,
+		"isAiGenerated": false,
+		"lastUpdatedAt": "",
+		"listingType": "3d-model",
+		"media": "https://media.fab.com/image_previews/gallery_images/2e987023-de67-4cee-8e5c-fc7e5a227e50/bd333191-1c56-4caa-a62c-453965eb3e94.jpeg",
+		"publishedAt": "2026-05-01T14:52:07.761841Z",
+		"reviewCount": 0,
+		"thumbnail": "https://media.fab.com/image_previews/gallery_images/aeb111ec-c4f7-490e-a00e-f9b679f9f738/668895e3-892f-4172-8a2c-b40a9bb179fd.jpeg",
+		"title": "Medieval Cart - Low Poly",
+		"uid": "541a3219-808d-4ea1-8145-5ce772195a68",
+		"updatedAt": "",
+		"user":
+		{
+			"coverImageUrl": "",
+			"profileImageUrl": "https://cdn1.epicgames.com/fab/seller/o-cfqnfuycek2ascfkenrpzfg6w4b4mp/profile/pizzagames-logo-1024x1024-4b44bf34d38670921fe12db11b9576a0.png",
+			"sellerName": "PizzaAndGames",
+			"uid": "c02fcf65-fdc9-49c0-b970-ea4447c0376b"
+		},
+		"tags": [
+			{
+				"name": "Lowpoly",
+				"slug": "lowpoly",
+				"uid": "451806dc-649e-43b7-9c2e-a54485de14b6"
+			},
+			{
+				"name": "Fantasy",
+				"slug": "fantasy",
+				"uid": "5c48e966-39f9-4b98-9803-78335e942570"
+			},
+			{
+				"name": "Wagon",
+				"slug": "wagon",
+				"uid": "84ef54a9-0a34-461c-96b4-3d53f963a14b"
+			},
+			{
+				"name": "Medieval",
+				"slug": "medieval",
+				"uid": "8869d28f-20ec-4f2e-9e92-d505e24c701d"
+			},
+			{
+				"name": "Wooden",
+				"slug": "wooden",
+				"uid": "9f55f27e-d3d7-4892-abbd-0a73b7ff3663"
+			},
+			{
+				"name": "Cart",
+				"slug": "cart",
+				"uid": "cb704908-87da-4655-bc03-369740de7f4b"
+			},
+			{
+				"name": "Wheel",
+				"slug": "wheel",
+				"uid": "f2805f65-520b-4a6d-b65c-1c87d453b68e"
+			}
+		],
+		"category":
+		{
+			"name": "Buildings & Architecture",
+			"path": "buildings-architecture",
+			"slug": "buildings-architecture",
+			"uid": "eec3bdd5-ba7a-45a8-b15d-67462b9630f6"
+		},
+		"assetFormats": [
+			{
+				"assetFormatType":
+				{
+					"name": "FBX",
+					"groupName": "3D Exchange Formats",
+					"code": "fbx",
+					"icon": "cube",
+					"extensions": [
+						"fbx"
+					]
+				}
+			},
+			{
+				"assetFormatType":
+				{
+					"name": "Converted Files",
+					"groupName": "",
+					"code": "converted-files",
+					"icon": "cube",
+					"extensions": [
+						"gltf",
+						"glb",
+						"usdz"
+					]
+				}
+			},
+			{
+				"assetFormatType":
+				{
+					"name": "Additional files",
+					"groupName": "Other Formats",
+					"code": "additional-files",
+					"icon": "file",
+					"extensions": [
+						"zip"
+					]
+				}
+			}
+		],
+		"_PluginMetas":
+		{
+			"apiDataVersion": "0.0.1",
+			"entitlementUid": "35742371-9956-4e37-8cfd-4f0efe5a2f7f",
+			"cacheSize": 0,
+			"downloaded": []
+		}
+	},
+	"target": "",
+	"quality": "",
+	"format": "fbx",
+	"fileId": "cad3d9df-bfbc-4aff-b5bc-7872bafb603d",
+	"platformIncluded": "",
+	"distributionPointBaseUrls": [],
+	"distributionMethod": "",
+	"entitlementUid": "35742371-9956-4e37-8cfd-4f0efe5a2f7f",
+	"invertedNormal": false,
+	"isConverted": false,
+	"isQuixel": false
+}

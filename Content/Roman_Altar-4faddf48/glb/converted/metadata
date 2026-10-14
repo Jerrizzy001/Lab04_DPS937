@@ -1,0 +1,92 @@
+{
+	"assetNamespace": "fab",
+	"listing":
+	{
+		"averageRating": 0,
+		"createdAt": "",
+		"description": "<p>Buff sandstone altar dedicated to Herakles. Found at Corbridge, England. Now in the British Museum, London.</p>\n<p>Date: 3rd Century.</p>\n<p><a target=\"_blank\" href=\"https://research.britishmuseum.org/research/collection_online/collection_object_details.aspx?objectId=1363388&amp;partId=1\" rel=\"noopener noreferrer nofollow\">https://research.britishmuseum.org/research/collection_online/collection_object_details.aspx?objectId=1363388&amp;partId=1</a></p>\n<p>48 photos taken in November 2018 with a Sony a6000 and proceseed in Reality Capture.</p>",
+		"isAiForbidden": false,
+		"isAiGenerated": false,
+		"lastUpdatedAt": "",
+		"listingType": "3d-model",
+		"media": "https://media.fab.com/image_previews/gallery_images/5ae3b4fc-b46b-4508-9fed-0131db57169c/f813b2c0-6f1e-4314-b520-2b8023b951a5.jpeg",
+		"publishedAt": "2024-10-04T17:48:01.383268Z",
+		"reviewCount": 0,
+		"thumbnail": "https://media.fab.com/image_previews/gallery_images/cf69f2e5-5a28-41a4-9735-2468239ea597/836c22a1-b1e2-40f8-b14c-2ad1d9c1edb2.jpeg",
+		"title": "Roman Altar",
+		"uid": "4faddf48-8431-456e-932c-6ead91a59bc7",
+		"updatedAt": "",
+		"user":
+		{
+			"coverImageUrl": "https://cdn1.epicgames.com/fab/seller/o-4dauk77xztasx9hhnvz2s66msthsev/cover/c743cbf0.jpg",
+			"profileImageUrl": "https://cdn1.epicgames.com/fab/seller/o-4dauk77xztasx9hhnvz2s66msthsev/profile/308ef5e2.jpg",
+			"sellerName": "artfletch",
+			"uid": "cbe0ffe8-b031-4269-addd-d46e1aee463c"
+		},
+		"tags": [
+			{
+				"name": "Photogrammetry",
+				"slug": "photogrammetry",
+				"uid": "39435048-f16b-4977-b62b-82ff5ca8c38e"
+			},
+			{
+				"name": "Culturalheritage",
+				"slug": "culturalheritage",
+				"uid": "4e3cebca-e45a-44a2-a995-ef375cbaae4f"
+			}
+		],
+		"category":
+		{
+			"name": "Tools, Objects & Decor",
+			"path": "objects-decor",
+			"slug": "objects-decor",
+			"uid": "d22d8b61-3aa8-4558-a6d1-c2a18543e0fd"
+		},
+		"assetFormats": [
+			{
+				"assetFormatType":
+				{
+					"name": "OBJ",
+					"groupName": "3D Exchange Formats",
+					"code": "obj",
+					"icon": "cube",
+					"extensions": [
+						"obj"
+					]
+				}
+			},
+			{
+				"assetFormatType":
+				{
+					"name": "Converted Files",
+					"groupName": "",
+					"code": "converted-files",
+					"icon": "cube",
+					"extensions": [
+						"gltf",
+						"glb",
+						"usdz"
+					]
+				}
+			}
+		],
+		"_PluginMetas":
+		{
+			"apiDataVersion": "0.0.1",
+			"entitlementUid": "cb69d72e-e148-4c25-b48a-f915000f6c59",
+			"cacheSize": 0,
+			"downloaded": []
+		}
+	},
+	"target": "",
+	"quality": "",
+	"format": "glb",
+	"fileId": "934c55af-572b-4960-bad7-d59619a07bbf",
+	"platformIncluded": "",
+	"distributionPointBaseUrls": [],
+	"distributionMethod": "",
+	"entitlementUid": "cb69d72e-e148-4c25-b48a-f915000f6c59",
+	"invertedNormal": false,
+	"isConverted": true,
+	"isQuixel": false
+}

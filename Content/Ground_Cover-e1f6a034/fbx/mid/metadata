@@ -1,0 +1,117 @@
+{
+	"assetNamespace": "fab",
+	"listing":
+	{
+		"averageRating": 5,
+		"createdAt": "",
+		"description": "<p><strong>Maps:</strong> Normal Specular Cavity Basecolor Translucency Bump Displacement Gloss Opacity Roughness</p><p> </p><p><span>Create high-quality 3D experiences and worlds with Quixel Megascans. Browse thousands of photorealistic assets and environments, including materials, 3D assets, plants, decals, and more available </span><a target=\"_blank\" href=\"https://www.fab.com/sellers/Quixel\" rel=\"noopener noreferrer nofollow\"><span><u>here</u></span></a><span> on Fab.</span></p><p></p><p><span>For any questions or support regarding Quixel content, please get in touch </span><a target=\"_blank\" href=\"https://support.fab.com/s/?ProductOrigin=1PC\" rel=\"noopener noreferrer nofollow\"><span><u>here</u></span></a><span>.</span></p>",
+		"isAiForbidden": true,
+		"isAiGenerated": false,
+		"lastUpdatedAt": "",
+		"listingType": "3d-model",
+		"media": "https://media.fab.com/image_previews/gallery_images/96e5e98e-9bd2-4935-a798-93b9284411ac/6f7f4ae2-ee4f-4089-a8fb-e104913f619c.jpeg",
+		"publishedAt": "2025-09-10T08:44:04.082830Z",
+		"reviewCount": 1,
+		"thumbnail": "https://media.fab.com/image_previews/gallery_images/7398efd6-f4bb-47ca-bdf1-5193b2d7a955/3a106519-8d04-4435-9b7b-7fd15c8133a6.jpeg",
+		"title": "Ground Cover",
+		"uid": "e1f6a034-919c-4f31-8260-7b1a878986b0",
+		"updatedAt": "",
+		"user":
+		{
+			"coverImageUrl": "https://cdn1.epicgames.com/fab/seller/o-cbf5bbfdb340d6a839b5520cb31328/cover/67dbdb8f.jpg",
+			"profileImageUrl": "https://cdn1.epicgames.com/fab/seller/o-cbf5bbfdb340d6a839b5520cb31328/profile/39e5dabd.png",
+			"sellerName": "Quixel Megascans",
+			"uid": "45ea3429-f62c-4f17-aa15-5bb9dfcd0079"
+		},
+		"tags": [
+			{
+				"name": "Weathered",
+				"slug": "weathered",
+				"uid": "1b898690-ea9c-4c08-9dcf-4f1c7582d1b5"
+			},
+			{
+				"name": "Pavement",
+				"slug": "pavement",
+				"uid": "2e76fe98-2e8e-4fe1-9359-21b841733d10"
+			},
+			{
+				"name": "Dry",
+				"slug": "dry",
+				"uid": "57bdc10e-4b1d-405c-95ac-9acaf22d3618"
+			},
+			{
+				"name": "Sidewalk",
+				"slug": "sidewalk",
+				"uid": "98775fcb-3977-4d94-a46f-c45945f622af"
+			},
+			{
+				"name": "Dead",
+				"slug": "dead",
+				"uid": "f39577a0-c1c8-43b1-b85c-44bd22e4865c"
+			}
+		],
+		"category":
+		{
+			"name": "Plants",
+			"path": "nature-plants/plants",
+			"slug": "nature-plants--plants",
+			"uid": "0960b146-a638-41e5-9d36-6ac525ff2861"
+		},
+		"assetFormats": [
+			{
+				"assetFormatType":
+				{
+					"name": "FBX",
+					"groupName": "3D Exchange Formats",
+					"code": "fbx",
+					"icon": "cube",
+					"extensions": [
+						"fbx"
+					]
+				}
+			},
+			{
+				"assetFormatType":
+				{
+					"name": "Additional files",
+					"groupName": "Other Formats",
+					"code": "additional-files",
+					"icon": "file",
+					"extensions": [
+						"zip"
+					]
+				}
+			},
+			{
+				"assetFormatType":
+				{
+					"name": "GLTF",
+					"groupName": "3D Exchange Formats",
+					"code": "gltf",
+					"icon": "cube",
+					"extensions": [
+						"gltf"
+					]
+				}
+			}
+		],
+		"_PluginMetas":
+		{
+			"apiDataVersion": "0.0.1",
+			"entitlementUid": "577c6028-4f56-4291-aa95-729718a45819",
+			"cacheSize": 0,
+			"downloaded": []
+		}
+	},
+	"target": "",
+	"quality": "mid",
+	"format": "fbx",
+	"fileId": "a3ea2f58-cf33-4f17-b7dd-1f1fec4e9e96",
+	"platformIncluded": "",
+	"distributionPointBaseUrls": [],
+	"distributionMethod": "",
+	"entitlementUid": "577c6028-4f56-4291-aa95-729718a45819",
+	"invertedNormal": false,
+	"isConverted": false,
+	"isQuixel": true
+}

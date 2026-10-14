@@ -1,0 +1,142 @@
+{
+	"assetNamespace": "fab",
+	"listing":
+	{
+		"averageRating": 5,
+		"createdAt": "",
+		"description": "<p><span>Plant species: <em>Corylus avellana</em></span></p><p></p><p><span>Quixel Megaplants are procedural vegetation assets for Unreal Engine. Each Megaplant includes editable presets built for the UE Procedural Vegetation Editor (PVE), allowing you to modify, customize, and make your own plant variations directly within the graph. Megaplants feature parametric controls for shaping vegetation and support Nanite foliage workflows for high-performance rendering.</span></p><p></p><p><span>Each asset pack includes branch foliage meshes, textures, and material instances, helping you deliver high-quality vegetation setups. Megaplants are also compatible with Dynamic Wind, which uses skeletal meshes to deliver optimized wind animation for Nanite foliage.</span></p><p></p><ul><li><p><span>Before trying to import any Megaplants into Unreal Engine, be sure to activate the \"Procedural Vegetation Editor\" plugin inside the Plugins window under Edit&gt;Plugins</span></p></li><li><p><span>In your project settings, be sure to search for and enable \"Nanite Foliage (Experimental)\"</span></p></li></ul><p></p><p><span><strong>Megaplants and the Procedural Vegetation Editor are currently Experimental.</strong></span></p><p><span>Features are sometimes made available in an Experimental state so you can try them out, provide feedback, and see what we are planning. We do not recommend shipping projects with Experimental features.</span></p><p></p><p><span>For any questions or support regarding Quixel content, please get in touch </span><a target=\"_blank\" href=\"https://support.fab.com/s/?ProductOrigin=1PC\" rel=\"noopener noreferrer nofollow\"><span><u>here</u></span></a><span>.</span></p><p><br><span>Curious about future Quixel releases? Discover upcoming Megaplants and Megascans content and vote for your favorites: </span><a target=\"_blank\" href=\"https://portal.productboard.com/epicgames/32-quixel-public-roadmap/tabs/112-in-progress\" rel=\"noopener noreferrer nofollow\"><span><u>Public Roadmap</u></span></a></p>",
+		"isAiForbidden": true,
+		"isAiGenerated": false,
+		"lastUpdatedAt": "",
+		"listingType": "3d-model",
+		"media": "https://media.fab.com/image_previews/gallery_images/a184ee36-9392-4a5b-b8c1-3f9301688bc0/fc51d508-4e3e-4cde-85a7-c2ff6379e9e9.jpg",
+		"publishedAt": "2026-06-17T13:20:46.461165Z",
+		"reviewCount": 3,
+		"thumbnail": "https://media.fab.com/image_previews/gallery_images/9d7928df-fea4-4007-a737-278a3d6a4c47/49d97711-d8d5-4f9a-b6c1-096bfcffb19d.jpg",
+		"title": "Megaplants: Common Hazel",
+		"uid": "27ded0d2-8bb2-4e44-a795-3a35725af218",
+		"updatedAt": "",
+		"user":
+		{
+			"coverImageUrl": "https://cdn1.epicgames.com/fab/seller/o-ka9q9jay7xxv6ats7x2j89t7gskfk9/cover/ddc5c386.jpg",
+			"profileImageUrl": "https://cdn1.epicgames.com/fab/seller/o-ka9q9jay7xxv6ats7x2j89t7gskfk9/profileImage/blob-500x500-9dee84553015deb95089770eb2fed571.jpg",
+			"sellerName": "Quixel Megaplants",
+			"uid": "bdeefddf-e90c-4589-9417-9df6d0ba5146"
+		},
+		"tags": [
+			{
+				"name": "Tree",
+				"slug": "tree",
+				"uid": "365e087d-8586-4b06-94e8-69c855e5f0aa"
+			},
+			{
+				"name": "Photogrammetry",
+				"slug": "photogrammetry",
+				"uid": "39435048-f16b-4977-b62b-82ff5ca8c38e"
+			},
+			{
+				"name": "Plant",
+				"slug": "plant",
+				"uid": "39825278-7eee-4f2e-aa9e-fa21a6f08c4f"
+			},
+			{
+				"name": "Foliage",
+				"slug": "foliage",
+				"uid": "45b78899-8767-46eb-a59e-1fe6293e5644"
+			},
+			{
+				"name": "Photorealistic",
+				"slug": "photorealistic",
+				"uid": "7485c72b-1f18-499f-8c65-0fdf1e2a21d0"
+			},
+			{
+				"name": "Vegetation",
+				"slug": "vegetation",
+				"uid": "7b1e3cb7-1c5f-4454-8b89-70aab49afcb6"
+			},
+			{
+				"name": "Procedural",
+				"slug": "procedural",
+				"uid": "8865f103-5eff-419e-860e-bc97930c1476"
+			},
+			{
+				"name": "Mega",
+				"slug": "mega",
+				"uid": "8a9747a5-d4df-46d8-b3af-c07610e81035"
+			},
+			{
+				"name": "Nature",
+				"slug": "nature",
+				"uid": "8d858676-26d9-4329-b3f7-0b3a4107b7f9"
+			},
+			{
+				"name": "Realistic",
+				"slug": "realistic",
+				"uid": "93b0d3f1-a96c-4d68-9d44-69a313519e32"
+			},
+			{
+				"name": "Hazel",
+				"slug": "hazel",
+				"uid": "c1eaa8bf-fea4-4248-a91f-d61e3e84e1e9"
+			},
+			{
+				"name": "Nanite",
+				"slug": "nanite",
+				"uid": "debf115a-79c6-4e18-ad7f-e922792d7313"
+			}
+		],
+		"category":
+		{
+			"name": "Trees",
+			"path": "nature-plants/trees",
+			"slug": "nature-plants--trees",
+			"uid": "863c04e2-f67a-4ae4-a408-e66355330f54"
+		},
+		"assetFormats": [
+			{
+				"assetFormatType":
+				{
+					"name": "USD",
+					"groupName": "3D Exchange Formats",
+					"code": "usd",
+					"icon": "cube",
+					"extensions": [
+						"usd"
+					]
+				}
+			},
+			{
+				"assetFormatType":
+				{
+					"name": "Unreal Engine",
+					"groupName": "Game Engine Formats",
+					"code": "unreal-engine",
+					"icon": "unreal-engine",
+					"extensions": [
+						"uasset",
+						"uproject",
+						"uplugin"
+					]
+				}
+			}
+		],
+		"_PluginMetas":
+		{
+			"apiDataVersion": "0.0.1",
+			"entitlementUid": "7c448a6a-5ee2-42df-b1ef-ba2e14b117aa",
+			"cacheSize": 0,
+			"downloaded": []
+		}
+	},
+	"target": "",
+	"quality": "",
+	"format": "usd",
+	"fileId": "4a695eb5-b1a9-46dd-9361-bd254df91593",
+	"platformIncluded": "",
+	"distributionPointBaseUrls": [],
+	"distributionMethod": "",
+	"entitlementUid": "7c448a6a-5ee2-42df-b1ef-ba2e14b117aa",
+	"invertedNormal": false,
+	"isConverted": false,
+	"isQuixel": false
+}

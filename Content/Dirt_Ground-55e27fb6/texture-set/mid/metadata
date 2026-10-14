@@ -1,0 +1,157 @@
+{
+	"assetNamespace": "fab",
+	"listing":
+	{
+		"averageRating": 0,
+		"createdAt": "",
+		"description": "<p><strong>Texel density:</strong> 4096 px/m</p><p><strong>Scan Area:</strong> 2x2 m</p><p><strong>Maps:</strong> Displacement Specular Bump Roughness Basecolor Normal Cavity AO Gloss</p>\n<p><span>Create high-quality 3D experiences and worlds with Quixel Megascans. Browse thousands of photorealistic assets and environments, including materials, 3D assets, plants, decals, and more available </span><a target=\"_blank\" href=\"https://www.fab.com/sellers/Quixel\" rel=\"noopener noreferrer nofollow\"><span><u>here</u></span></a><span> on Fab.</span></p><p></p><p><span>For any questions or support regarding Quixel content, please get in touch </span><a target=\"_blank\" href=\"https://support.fab.com/s/?ProductOrigin=1PC\" rel=\"noopener noreferrer nofollow\"><span><u>here</u></span></a><span>.</span></p>",
+		"isAiForbidden": true,
+		"isAiGenerated": false,
+		"lastUpdatedAt": "",
+		"listingType": "material",
+		"media": "https://media.fab.com/image_previews/gallery_images/8f2db6e2-a6fb-40b8-af15-fd26c2c97b79/1406d80f-57da-4af1-85ad-d353941c96b6.jpeg",
+		"publishedAt": "2024-10-13T16:19:49.585013Z",
+		"reviewCount": 0,
+		"thumbnail": "https://media.fab.com/image_previews/gallery_images/cc657e21-864f-41c2-af08-823e1b67d180/18553786-ae75-4b44-9e26-f5342e72991d.jpeg",
+		"title": "Dirt Ground",
+		"uid": "55e27fb6-a4d2-4438-9cb4-1452ebe4d369",
+		"updatedAt": "",
+		"user":
+		{
+			"coverImageUrl": "https://cdn1.epicgames.com/fab/seller/o-cbf5bbfdb340d6a839b5520cb31328/cover/67dbdb8f.jpg",
+			"profileImageUrl": "https://cdn1.epicgames.com/fab/seller/o-cbf5bbfdb340d6a839b5520cb31328/profile/39e5dabd.png",
+			"sellerName": "Quixel Megascans",
+			"uid": "45ea3429-f62c-4f17-aa15-5bb9dfcd0079"
+		},
+		"tags": [
+			{
+				"name": "Agriculture",
+				"slug": "agriculture",
+				"uid": "03a355e1-3576-4dcc-96a0-0d667bb627f4"
+			},
+			{
+				"name": "Weathered",
+				"slug": "weathered",
+				"uid": "1b898690-ea9c-4c08-9dcf-4f1c7582d1b5"
+			},
+			{
+				"name": "Ground",
+				"slug": "ground",
+				"uid": "3baab37a-91ee-4554-acbb-3a54f62d165e"
+			},
+			{
+				"name": "Dry",
+				"slug": "dry",
+				"uid": "57bdc10e-4b1d-405c-95ac-9acaf22d3618"
+			},
+			{
+				"name": "East",
+				"slug": "east",
+				"uid": "63057977-ef99-417a-b007-22949224d94a"
+			},
+			{
+				"name": "Middle",
+				"slug": "middle",
+				"uid": "8a03f9e5-a96a-4477-90c1-47bfe2fb1a8c"
+			},
+			{
+				"name": "Old",
+				"slug": "old",
+				"uid": "975b1521-db01-43ed-a939-c2c2da5027b1"
+			},
+			{
+				"name": "Worn",
+				"slug": "worn",
+				"uid": "98cd7d65-d9bb-4efc-9f13-2d3d6f29629d"
+			},
+			{
+				"name": "Dirt",
+				"slug": "dirt",
+				"uid": "afb8dbdd-8c6c-44d6-a69b-9197f4a84963"
+			},
+			{
+				"name": "Soil",
+				"slug": "soil",
+				"uid": "b0843123-1234-4993-870e-5f9e5a0d6c93"
+			},
+			{
+				"name": "Scattered",
+				"slug": "scattered",
+				"uid": "cd5577cd-fa0c-40b2-a295-424365806ac6"
+			},
+			{
+				"name": "Farm",
+				"slug": "farm",
+				"uid": "d24304ec-e02e-44c8-a23d-126b9cd3c715"
+			},
+			{
+				"name": "Debris",
+				"slug": "debris",
+				"uid": "e130b2cf-e5e2-4999-931a-1b82b4c69ee9"
+			}
+		],
+		"category":
+		{
+			"name": "Vegetation",
+			"path": "nature-terrain/vegetation",
+			"slug": "nature-terrain--vegetation",
+			"uid": "dcacfa12-657d-466f-96d0-abde253a9bf2"
+		},
+		"assetFormats": [
+			{
+				"assetFormatType":
+				{
+					"name": "Texture Set",
+					"groupName": "Material Formats",
+					"code": "texture-set",
+					"icon": "cube",
+					"extensions": [
+						"zip"
+					]
+				}
+			},
+			{
+				"assetFormatType":
+				{
+					"name": "GLTF",
+					"groupName": "3D Exchange Formats",
+					"code": "gltf",
+					"icon": "cube",
+					"extensions": [
+						"gltf"
+					]
+				}
+			},
+			{
+				"assetFormatType":
+				{
+					"name": "Additional files",
+					"groupName": "Other Formats",
+					"code": "additional-files",
+					"icon": "file",
+					"extensions": [
+						"zip"
+					]
+				}
+			}
+		],
+		"_PluginMetas":
+		{
+			"apiDataVersion": "0.0.1",
+			"entitlementUid": "8c81916c-f290-4482-864f-11bd345d603f",
+			"cacheSize": 0,
+			"downloaded": []
+		}
+	},
+	"target": "",
+	"quality": "mid",
+	"format": "texture-set",
+	"fileId": "4684ee08-565a-4dee-b9cf-7d86964fe338",
+	"platformIncluded": "",
+	"distributionPointBaseUrls": [],
+	"distributionMethod": "",
+	"entitlementUid": "8c81916c-f290-4482-864f-11bd345d603f",
+	"invertedNormal": false,
+	"isConverted": false,
+	"isQuixel": true
+}

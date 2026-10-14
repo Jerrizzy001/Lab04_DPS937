@@ -1,0 +1,87 @@
+{
+	"assetNamespace": "fab",
+	"listing":
+	{
+		"averageRating": 0,
+		"createdAt": "",
+		"description": "<p>A sandstone model of a Siva temple/shrine from India now located in the British Museum, London. The figure of Ganesha can be seen above the door.</p>\n<p>Date: 18thC-19thC.</p>\n<p><a target=\"_blank\" href=\"https://www.britishmuseum.org/collection/object/A_1880-4081\" rel=\"noopener noreferrer nofollow\">https://www.britishmuseum.org/collection/object/A_1880-4081</a></p>\n<p>97 photos taken in May 2023 with a Sony a7R III and processed in Reality Capture.</p>",
+		"isAiForbidden": false,
+		"isAiGenerated": false,
+		"lastUpdatedAt": "",
+		"listingType": "3d-model",
+		"media": "https://media.fab.com/image_previews/gallery_images/71756f4b-c77d-44c5-9a2f-279abce439cc/a04f20f1-5166-45d9-bf8c-ff6736a1cce2.jpeg",
+		"publishedAt": "2024-10-01T19:04:37.231530Z",
+		"reviewCount": 0,
+		"thumbnail": "https://media.fab.com/image_previews/gallery_images/087d949c-8eb1-47f3-b5e6-1049fe32b97e/4f3f44c5-d26d-4e8b-a485-642f6ec93871.jpeg",
+		"title": "Siva Shrine Model",
+		"uid": "f72bc405-4519-4b43-8251-e41191901d7b",
+		"updatedAt": "",
+		"user":
+		{
+			"coverImageUrl": "https://cdn1.epicgames.com/fab/seller/o-4dauk77xztasx9hhnvz2s66msthsev/cover/c743cbf0.jpg",
+			"profileImageUrl": "https://cdn1.epicgames.com/fab/seller/o-4dauk77xztasx9hhnvz2s66msthsev/profile/308ef5e2.jpg",
+			"sellerName": "artfletch",
+			"uid": "cbe0ffe8-b031-4269-addd-d46e1aee463c"
+		},
+		"tags": [
+			{
+				"name": "Photogrammetry",
+				"slug": "photogrammetry",
+				"uid": "39435048-f16b-4977-b62b-82ff5ca8c38e"
+			}
+		],
+		"category":
+		{
+			"name": "Tools, Objects & Decor",
+			"path": "objects-decor",
+			"slug": "objects-decor",
+			"uid": "d22d8b61-3aa8-4558-a6d1-c2a18543e0fd"
+		},
+		"assetFormats": [
+			{
+				"assetFormatType":
+				{
+					"name": "OBJ",
+					"groupName": "3D Exchange Formats",
+					"code": "obj",
+					"icon": "cube",
+					"extensions": [
+						"obj"
+					]
+				}
+			},
+			{
+				"assetFormatType":
+				{
+					"name": "Converted Files",
+					"groupName": "",
+					"code": "converted-files",
+					"icon": "cube",
+					"extensions": [
+						"gltf",
+						"glb",
+						"usdz"
+					]
+				}
+			}
+		],
+		"_PluginMetas":
+		{
+			"apiDataVersion": "0.0.1",
+			"entitlementUid": "cf1c7cde-0d90-4dd0-8c55-34f4530304ac",
+			"cacheSize": 0,
+			"downloaded": []
+		}
+	},
+	"target": "",
+	"quality": "",
+	"format": "glb",
+	"fileId": "f4f3b12a-ef07-4801-8631-931aa8b3be74",
+	"platformIncluded": "",
+	"distributionPointBaseUrls": [],
+	"distributionMethod": "",
+	"entitlementUid": "cf1c7cde-0d90-4dd0-8c55-34f4530304ac",
+	"invertedNormal": false,
+	"isConverted": true,
+	"isQuixel": false
+}
